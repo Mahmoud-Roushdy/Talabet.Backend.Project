@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Talabat.Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Talabat.Service.props",
+      "PackagePath": "build\\Talabat.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Talabat.Service.props",
+      "PackagePath": "buildMultiTargeting\\Talabat.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Talabat.Service.props",
+      "PackagePath": "buildTransitive\\Talabat.Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

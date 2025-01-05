@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "wCITp8BEGGjPfAzVJQ6/8wBOSHwsnjYfTnItHpmKIsU=",
+  "Source": "Talabat.Service",
+  "BasePath": "_content/Talabat.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.Service\\wwwroot",
+      "Source": "Talabat.Service",
+      "ContentRoot": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\",
+      "BasePath": "_content/Talabat.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\",
+      "BasePath": "_content/Talabat.Service",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Identity": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\images\\products\\sb-ang2.png",
+      "SourceId": "Talabat.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C# fundmentals\\ASP.NET\\Talabat.Project\\Talabat.Service\\wwwroot\\",
+      "BasePath": "_content/Talabat.Service",
+      "RelativePath": "images/products/sb-ang2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+    }
+  ]
+}
